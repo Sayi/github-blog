@@ -1,4 +1,5 @@
 # github-blog
+![logo](docs/github_120_120.png)
 Blogger Android App, based on github issues.
 
 # Blogger APP
@@ -16,4 +17,4 @@ Android应用，基于github issues的代码人的博客。
 
 版本：0.9.9-alpha
 
-[APK下载](http://7xohef.com1.z0.glb.clouddn.com/Blogger.apk)
+[APK下载](http://deepoove.com/github-blog/)
