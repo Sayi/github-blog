@@ -1,9 +1,9 @@
-# github-blog
+# Blogger Android APP
 ![logo](docs/github_120_120.png)
-Blogger Android App, based on github issues.
 
-# Blogger APP
-Android应用，基于github issues的代码人的博客。
+based on github issues.
+
+# GitHub博客APP
 代码人的博客，基于GitHub Issues创建，包含以下内容：
 1. 创建博客文章以及分类
 2. 查看其它人的主页，文章
@@ -17,4 +17,10 @@ Android应用，基于github issues的代码人的博客。
 
 版本：0.9.9-alpha
 
-[APK下载](http://deepoove.com/github-blog/)
+[APK下载页面](http://deepoove.com/github-blog/)
+
+# 截图
+<img src="docs/gitblog1.png" width = "320" height = "570" alt="图片名称" align=center /><img src="docs/gitblog2.png" width = "320" height = "570" alt="图片名称" align=center />
+
+<img src="docs/gitblog3.png" width = "320" height = "570" alt="图片名称" align=center /><img src="docs/gitblog5.png" width = "320" height = "570" alt="图片名称" align=center />
+
