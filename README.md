@@ -22,6 +22,8 @@
 
 同时支持应用商店(搜索：GitHub或者GitHub博客)：
 1. Smartisan应用商店
+2. 百度手机助手
+3. 小米应用商店
 
 # 截图
 <img src="docs/gitblog1.png" width = "320" height = "570" alt="图片名称" align=center /><img src="docs/gitblog2.png" width = "320" height = "570" alt="图片名称" align=center />
